@@ -1,4 +1,4 @@
-# Ultra low latency Edge AI for physics
+# Projects: Ultra low latency edge AI for physics (and beyond)
 
 This document lists open and past projects at the intersection of edge AI and physics, particularly focusing on innovative applications within experimental physics environments such as the LHC. These projects aim to leverage advanced artificial intelligence and machine learning techniques to solve complex problems in physics research.
 
