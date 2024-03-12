@@ -8,7 +8,7 @@ The field of edge AI for physics is burgeoning, with new methodologies and techn
 
 ## Contact Us
 
-![Example Image](https://raw.githubusercontent.com/username/repository/branch/images/example.png)
+![[klaeboration](https://raw.githubusercontent.com/username/repository/branch/images/example.png)](https://github.com/thaarres/edgeai/blob/a214a8499fe999e06f7d567c2d1fb47b4d75e2a9/klaeboration.png)
 
 For more information or to apply for an open project, please contact:
 
